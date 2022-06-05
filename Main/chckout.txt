@@ -1,6 +1,0 @@
-saved_jobs & update_jobs & applied jobs back-end part left....!!!
-
-api-deploy link  :  https://job-api-jayesh-deploy.herokuapp.com/
-
-
-https://indeed-mock-server.herokuapp.com   //reference
