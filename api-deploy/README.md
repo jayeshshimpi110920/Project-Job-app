@@ -1,5 +1,5 @@
-# `Deploy db.json file into herokuapp and make a data live and fetching data from there only using axios in our project..`
-# Below are the step we followed to deploy db.json file.
+**Deploy db.json file into herokuapp and make a data live and fetching data from there only using axios in our project..**
+**Below are the step we followed to deploy db.json file**
 
 
 
