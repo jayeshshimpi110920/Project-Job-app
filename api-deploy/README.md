@@ -1,3 +1,8 @@
+# `Deploy db.json file into herokuapp and make a data live and fetching data from there only using axios in our project..`
+# Below are the step we followed to deploy db.json file.
+
+
+
 # Deploy `json-server` to `{{ free hosting site }}`
 
 > Instructions how to deploy the full fake REST API [json-server](https://github.com/typicode/json-server) to various free hosting sites. Should only be used in development purpose but can act as a simpler database for smaller applications.
